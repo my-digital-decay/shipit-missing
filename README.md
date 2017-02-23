@@ -31,7 +31,7 @@ Display the settings for an environment:
 
 List the available tasks for an environment:
 
-	$ shipit rocco shipit:tasks
+	$ shipit sample shipit:tasks
 
 	Running 'shipit:tasks' task...
 	Available Tasks:
