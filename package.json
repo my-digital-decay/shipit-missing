@@ -1,0 +1,11 @@
+{
+	"name": "shipit-missing",
+	"description": "The missing pieces of shipit",
+	"version": "0.0.1",
+	"license": "MIT",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/my-digital-decay/shipit-missing.git"
+	}
+}
