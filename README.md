@@ -1,5 +1,5 @@
 #shipit-missing
-Provides the functionality I find missing from shipit.
+Provides the functionality I believe is missing from [shipit](https://github.com/shipitjs/shipit).
 
 ###Features:
 - Adds a `shipit:env` task for easily displaying an environment's settings.
