@@ -1,12 +1,12 @@
-#shipit-missing
+# shipit-missing
 Provides the functionality I believe is missing from [shipit](https://github.com/shipitjs/shipit).
 
-###Features:
+### Features:
 - Adds a `shipit:env` task for easily displaying an environment's settings.
 - Adds a `shipit:tasks` task for easily displaying the tasks available in an environment.
 
-##Usage
-###Example shipitfile.js
+## Usage
+### Example shipitfile.js
 
 	module.exports = function (shipit) {
 		require('shipit-missing')(shipit);
@@ -39,5 +39,5 @@ List the available tasks for an environment:
 	  shipit:tasks
 	Finished 'shipit:tasks' after 729 μs
 
-##License
+## License
 MIT
